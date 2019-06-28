@@ -9,7 +9,7 @@ setup(
 	version='0.1.0',
 	author='Durga Sahoo',
 	author_email='dpsahoo@gmail.com',
-	description='A utility for backing up PostgreSQL databases',
+	description='A utility for backing up PostgreSQL databases - built in Python3.7',
 	long_description=long_description,
 	long_description_content_type='text/markdown',
 	url='https://github.com/dpsahoo/pgbackup',
