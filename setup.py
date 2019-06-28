@@ -3,6 +3,7 @@ from setuptools import find_packages, setup
 with open('README.md', 'r') as f:
 	long_description = f.read()
 
+##Call setup() function by passing in the required parameters
 setup(
 	name='pgbackup',
 	version='0.1.0',
